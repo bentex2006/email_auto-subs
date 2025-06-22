@@ -150,8 +150,8 @@ Feel free to contribute by:
 ## Credits
 
 **Development Team:**
-- **Lead Developer**: [@B3nT3X](https://github.com/B3nT3X)
-- **Debug Developer**: [@cracker666user](https://github.com/cracker666user)
+- **Lead Developer**: [@B3nT3X](https://t.me/B3nT3X)
+- **Debug Developer**: [@cracker666user](https://t.me/cracker666user)
 
 **Community:**
 - **Telegram Channel**: [@skittle_gg](https://t.me/skittle_gg)
