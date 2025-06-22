@@ -1,0 +1,1070 @@
+[
+    {
+        "url": "https://uptain.de/en/blog/how-online-shops-generate-newsletter-subscribers",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "wpforms[fields][1]"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "name": "wpforms[submit]"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [
+                {
+                    "name": "wpforms[fields][3][]"
+                }
+            ],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://www.finnishdesignshop.com/en-us/newsletters",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "newsletter-ajax-submit"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://www.thecut.com/promo/cut-shop-newsletter-sign-up.html",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Sign up"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://www.uniqlo.com/sg/en/member/e-news/subscription",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "subscribe"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "primary"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [
+                {
+                    "name": "newsletter"
+                }
+            ],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://newsletter.defitimes.io/about",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "subscribe-btn"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://nocodelandscape.beehiiv.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Subscribe"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://newsletter.spaceknown.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Subscribe"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://www.ohmyrockness.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Sign Up >"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://www.axios.com/signup/pro-rata",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Subscribe"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://salesstoic.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Start crushing it in sales..."
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://fastlane-fleet.beehiiv.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Don't miss out on the ride of a lifetime!"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://geekout.mattnavarra.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Subscribe (It's free!)"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [
+                {
+                    "class": "text-lp-main-signup-cta-color"
+                }
+            ],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://thehumansintheloop.substack.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "subscribe-btn"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://newsletter.betterstack.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "subscribe-btn"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://unconventional-empires.beehiiv.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Join Us! "
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://dotnetnews.co/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "EMAIL"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "js-submit-button"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://substack.com/signup",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "primary"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://www.aididthat.com/subscribe",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Subscribe"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://dharab.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "EMAIL"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "name": "submit"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://palealetravel.beehiiv.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Subscribe"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://7x7.news/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "subscribe-btn"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://astukari.substack.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "subscribe-btn"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://jbrworks.substack.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "subscribe-btn"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://webtoolsweekly.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "EMAIL"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "name": "subscribe"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://techproductivity.co",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "EMAIL"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "name": "subscribe"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://vscode.email",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "EMAIL"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "name": "subscribe"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://standardhoy.substack.com",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "subscribe-btn"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://www.badgerandyote.com",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Subscribe"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://insightsinnovationecon.substack.com",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "subscribe-btn"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://kapansrt.substack.com",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "subscribe-btn"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://thedonut.co/news-personality-quiz/results/?medium=email&interests=world",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "emailAddress"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "NewsQuizSubscribeBar-module--button--c5311"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://coinbrain.beehiiv.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Subscribe"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://www.insidesmallgiants.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "subscribe-btn"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://deascentiis.substack.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "subscribe-btn"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://www.attnseek.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Subscribe"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://daily.thecore.email/subscribe",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": " Subscribe"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://worldofai.beehiiv.com?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Subscribe"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://the-baseline.beehiiv.com/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Subscribe"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://thisweekinreact.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email_address"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "formkit-submit"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://linkedinprompts.beehiiv.com/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Subscribe"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://www.forstarters.co/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Subscribe"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://www.theatlantic.com/newsletters/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "NewslettersSignupBar_button__H1vw5"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [
+                {
+                    "class": "NewsletterCard_buttonIcon__gCltK"
+                }
+            ],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://account.forbes.com/newsletters",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "class": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "class": "subscribe-button"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [
+                {
+                    "value": "DailyDozen"
+                }
+            ],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://www.keyence.com.sg/enews/subscribe/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "enewsEmailAddress"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "name": "subscribe"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://news.un.org/en/content/un-newsletter-subscribe",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "EMAIL"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "name": "subscribe"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://www.bruggpipes.com/en/newsletter-sign-up/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "tx_powermail_pi1[field][vorname]"
+                },
+                {
+                    "name": "tx_powermail_pi1[field][name]"
+                },
+                {
+                    "name": "tx_powermail_pi1[field][e_mail]"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "value": "Subscribe"
+                }
+            ],
+            "radios": [
+                {
+                    "value": "Mr."
+                }
+            ],
+            "checkboxes": [
+                {
+                    "name": "tx_powermail_pi1[field][datenschutzerklaerung][]"
+                }
+            ],
+            "selections": [],
+            "wait": 5
+        }
+    },
+    {
+        "url": "https://news.nus.edu.sg/subscribe-to-email-newsletter/",
+        "verified": true,
+        "input_fields": {
+            "email": [
+                {
+                    "name": "email"
+                }
+            ],
+            "username": [],
+            "phone": [],
+            "submit": [
+                {
+                    "id": "submit_button-ppmail"
+                }
+            ],
+            "radios": [],
+            "checkboxes": [],
+            "selections": [],
+            "wait": 5
+        }
+    }
+]
