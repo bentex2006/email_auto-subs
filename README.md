@@ -70,8 +70,6 @@ echo 'EMAILS=email1@example.com,email2@example.com,email3@example.com' > .env
 ### 4. Run the Application
 
 ```bash
-# For Replit version
-python main.py
 
 # For GitHub Codespaces version
 python gitmain.py
@@ -103,7 +101,6 @@ python gitmain.py
 ## File Structure
 
 ```
-├── main.py           # Replit optimized version
 ├── gitmain.py        # GitHub Codespaces optimized version
 ├── requirements.txt  # Python dependencies
 ├── .env             # Email configuration
